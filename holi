@@ -1,0 +1,38 @@
+<html>
+
+<head></head>
+<body>
+    <h1> Me llega al webete la vida
+
+    <p> Chicken
+        <table class="default">
+
+  <tr>
+
+    <td>Pollo   = Chicken
+
+
+  </tr>
+
+    <td>Repollo = Rechicken</td>
+  <tr>
+
+    </h1> 
+
+  </tr>
+
+</table>
+
+    <tr> Beef
+        <table class="default">
+    <tr>
+
+    <td> Carne = Vaca
+
+    </td>
+
+        <td> Recarne = Revaca</td>
+
+    <tr>
+
+</html>
